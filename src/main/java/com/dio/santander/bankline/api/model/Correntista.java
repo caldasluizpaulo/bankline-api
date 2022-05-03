@@ -8,8 +8,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import com.dio.santander.bankline.api.Conta;
-
 @Entity
 @Table(name = "tab_correntista")
 public class Correntista {
