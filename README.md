@@ -1,5 +1,7 @@
 # Getting Started
 
+Seja bem vindo ao repositório da API REST construido na SANTANDER DEV WEEK.
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
